@@ -1,0 +1,14 @@
+2022-03-17 18:16:16.116 [main] INFO  com.ljl.austin.AustinWebApplication - Starting AustinWebApplication using Java 1.8.0_251 on DESKTOP-6A1U25L with PID 29412 (E:\practice\austin-learning\austin-web\target\classes started by ljl in E:\practice\austin-learning)
+2022-03-17 18:16:16.120 [main] INFO  com.ljl.austin.AustinWebApplication - No active profile set, falling back to 1 default profile: "default"
+2022-03-17 18:16:16.778 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-03-17 18:16:16.785 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-17 18:16:16.786 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-03-17 18:16:16.787 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-17 18:16:16.848 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-03-17 18:16:16.848 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 690 ms
+2022-03-17 18:16:17.073 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-03-17 18:16:17.087 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-17 18:16:17.094 [main] INFO  com.ljl.austin.AustinWebApplication - Started AustinWebApplication in 1.216 seconds (JVM running for 2.068)
+2022-03-17 18:16:32.221 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-17 18:16:32.221 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-03-17 18:16:32.222 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
